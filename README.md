@@ -1,2 +1,2 @@
-# laravel-dataTable-note
-Laravel 加上Jquery DataTble的筆記
+# Laravel 與Jquery結合快速產生實用DataTable的筆記
+
